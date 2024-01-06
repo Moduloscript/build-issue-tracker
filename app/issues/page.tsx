@@ -1,6 +1,6 @@
 import React from 'react'
 
-const IssuesPages = () => {
+const IssuesPage = () => {
   return (
     <div>
       issues Page
@@ -8,4 +8,4 @@ const IssuesPages = () => {
   )
 }
 
-export default IssuesPages
+export default IssuesPage
